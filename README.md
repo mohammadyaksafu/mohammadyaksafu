@@ -4,15 +4,18 @@
 
 ### Software Engineering Student  
 
+<img src="https://komarev.com/ghpvc/?username=mohammadyaksafu&style=for-the-badge&color=10B981&label=VISITORS" />
+
 </div>
 
-## About Me
+## 👨‍💻 About Me
+
 <div style="display: inline-block; width: 55%; vertical-align: middle; text-align: left;">
 
--  Undergraduate Student in Software Engineering (SUST)  
--  Passionate about **Robotics, Full-Stack Development & AI**  
--  Focused on building real-world impactful solutions  
--  Currently exploring **Next.js, Spring Boot & Cloud**
+- 🎓 Undergraduate Student in Software Engineering (SUST)  
+- 💡 Passionate about **Robotics, Full-Stack Development & AI**  
+- 🚀 Focused on building real-world impactful solutions  
+- 📚 Currently exploring **Next.js, Spring Boot & Cloud**
 
 </div>
 
