@@ -20,6 +20,22 @@
 </div>
 
 
+## 🏆 Hackathons & Achievements
+
+| Event | Result | Project |
+|---|---|---|
+| **CoU AI Hackathon 2026** (Comilla University) | 🎁 Awarded a **GIGABYTE monitor** by programme sponsor **GIGABYTE** · Team Twin logic | [PoraBondhu AI](https://github.com/mohammadyaksafu/porabondhu-ai) |
+| **AI DEV FEST 2026** (DIU CPC × upay) | 🥇 **Champion** · Team TwinLogic | [Shurokkha](https://github.com/mohammadyaksafu/DIU_Hackathon_final) |
+| **NASA Space Apps Challenge 2026** | Participant · Team of Dream | [FieldShift Planner](https://github.com/mohammadyaksafu/fieldshift-planner) |
+
+## 🚀 Featured Projects
+
+- **[PoraBondhu AI (পড়াবন্ধু)](https://github.com/mohammadyaksafu/porabondhu-ai)**: offline Bangla reading diagnostician for primary teachers. A child reads aloud; it marks every word and traces each error to the Bangla grapheme behind it. CPU-only, no LLM API. *Python · FastAPI · wav2vec2 (ONNX) · React* · [Live demo](https://porabondhu.165-99-219-251.sslip.io) · [Video](https://youtu.be/z_jiGV3ZkbU)
+- **[Shurokkha](https://github.com/mohammadyaksafu/DIU_Hackathon_final)**: real-time AI fraud and scam prevention for mobile money, with Bangla explanations and mule-ring graph detection.
+- **[FieldShift Planner](https://github.com/mohammadyaksafu/fieldshift-planner)**: crop-rotation decision support from NASA POWER, MODIS NDVI and SoilGrids.
+- **[ThreadLight](https://github.com/mohammadyaksafu/threadlight)**: verified evidence passport for garment exporters.
+- **[Saat Chara (সাত চাড়া)](https://github.com/mohammadyaksafu/saat-chara)**: the Bangladeshi childhood game of Seven Stones in the browser.
+
 ##  Skills & Interests
 - Programming: JavaScript | TypeScript | Python | Java | C/C++  
 - Web: React | Node.js | Next.js  
